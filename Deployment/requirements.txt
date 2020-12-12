@@ -1,0 +1,7 @@
+torch
+torchvision
+flask
+pillow
+requests
+gevent
+scipy
